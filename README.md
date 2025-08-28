@@ -22,26 +22,6 @@ I build practical, real‑world solutions at the intersection of **electrical sy
 
 ---
 
-## 🌟 Featured Projects
-> Pinned below for quick access—here’s the context.
-
-- **ALX Listing App (Airbnb Clone)** — Full‑stack **Next.js + TypeScript + Tailwind** app, modular architecture, auth, listings & search.
-- **AgriTech App Prototype** — Mobile‑first tool for farmers: **weather**, **planting calendar**, and **safe route guidance**.
-- **Solar Energy Monitoring** — Low‑cost solar design + **IoT** data pipeline (WIP), live metrics and alerts.
-
----
-
-## 📊 Stats & Activity
-![Roland's GitHub stats](https://github-readme-stats.vercel.app/api?username=RolandLulando&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandLulando&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RolandLulando&theme=tokyonight)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RolandLulando&theme=onedark&margin-w=15&margin-h=15)
-
-![Roland's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RolandLulando&theme=react-dark)
-
----
-
 ## 🌍 Connect
 - **LinkedIn:** https://www.linkedin.com/in/roland-lulando/
 - **Email:** lulangoroland46@gmail.com
