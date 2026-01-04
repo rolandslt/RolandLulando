@@ -1,47 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Roland+Lulando;Electrical+Engineer+%2B+Cloud+%26+Software+Engineer;Problem+Solver+%7C+Builder+%7C+Lifelong+Learner)](https://git.io/typing-svg)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RolandLulando&label=Profile%20Views&color=0e75b6&style=flat)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Roland+Lulando;BSc+Electrical+Engineer;Junior+Backend+Developer;Cybersecurity+Researcher" alt="Typing SVG" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RolandLulando&label=Profile%20Views&color=10B981&style=flat)
+
+---
 
 # 👋 Hi, I'm Roland Lulando
-**Electrical Engineer → Software & Cloud Engineer**  
-I build practical, real‑world solutions at the intersection of **electrical systems** and **modern software**. Recently focused on **AWS cloud**, **backend & full‑stack JavaScript**, and **security‑minded** engineering.
+**Electrical Engineer ➡️ Backend Developer ➡️ Security Researcher**
+
+I am an Electrical & Control Engineer transitioning into the digital space. I specialize in designing secure systems, from physical electrical controls to robust web backends.
+
+📍 **Currently based in Kampala, Uganda.**
+
+[LinkedIn](https://www.linkedin.com/in/roland-lulando-00a54b265) | [Email](mailto:lulangoroland46@gmail.com)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-black?logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Backend-Express-grey?logo=express)
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws)
-![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
+### 🛠 Technical Core
+
+#### **Engineering & Control**
+* **Electrical Project Design:** Designing electrical systems and infrastructure layouts.
+* **Control Science:** Expertise in feedback loops, automation, and industrial control logic.
+
+#### **Backend Development**
+* **Python / Django:** Building secure and scalable server-side applications.
+* **Django Rest Framework (DRF):** Designing and implementing robust RESTful APIs.
+* **Database Management:** PostgreSQL and secure data modeling.
+
+#### **Cybersecurity**
+* **Defensive Security:** Training in SOC (Security Operations Center) analysis and monitoring.
+* **Offensive Security:** Learning Pentesting methodologies and vulnerability assessment.
+* **Network Security:** Traffic analysis using Wireshark and infrastructure hardening.
 
 ---
 
-## 🌍 Connect
-- **LinkedIn:** https://www.linkedin.com/in/roland-lulando/
-- **Email:** lulangoroland46@gmail.com
-- **Portfolio:** (coming soon)
-
-> *“Engineering gave me discipline for problem‑solving. Tech gives me tools to build solutions.”*
+### 💡 Philosophy
+> *“Engineering gave me the discipline for problem‑solving. Tech gives me the tools to build the solutions.”*
 
 ---
 
-### 🔧 How to run my projects locally (common pattern)
+### 🔧 How to run my labs locally
 ```bash
-# Clone
+# Clone the repository
 git clone <REPO_URL> && cd <REPO_NAME>
 
-# Backend
-npm i
-npm run dev
+# Setup Virtual Environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Frontend (if separate)
-cd client
-npm i
-npm run dev
-```
+# Install Dependencies
+pip install -r requirements.txt
+
+# Run Server
+python manage.py runserver
